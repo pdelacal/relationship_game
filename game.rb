@@ -140,3 +140,6 @@ kisses&hug      e   ugs&kisses&hugs&      &hugs&kisses&h   &
 s&kisses&hu        s&hugs&kisses                           g
 gs&kisses&h        es&hugs&kisse                           u
 ugs&kisses&hugs&kisses&hugs&kisses&hugs&kisses&hugs&kisses&h\n".each_char {|c| putc c ; sleep 0.005 }
+
+
+#hello
